@@ -5,7 +5,7 @@ A modern To-Do List application built with React
 A modern, feature-rich To-Do List application built with React.js.
 
 ## 🚀 Live Demo
-[![Live Demo](https://todo-app-react-git-main-josemafita-ls-projects.vercel.app)
+[![Live Demo]](https://todo-app-react-git-main-josemafita-ls-projects.vercel.app)
 [![GitHub]](https://github.com/Josemafita-L/todo-app-react)
 
 ## ✨ Features
